@@ -1,7 +1,7 @@
 # webhook-repo
 ## Flask Web App for GitHub Webhooks
 
-This Flask web app is designed to receive GitHub webhook post requests for pull_request and push events from the repository `/ionstone/action-repo`, and save the details to a remote MongoDB database.
+This Flask web app is designed to receive GitHub webhook post requests for **pull_request,push, and merge** from the repository `/ionstone/action-repo`, and save the details to a remote MongoDB database.
 
 ### Instructions
 
